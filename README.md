@@ -1,4 +1,4 @@
-# Desafio Smattbot
+# Desafio Smarttbot
 
 Visando escalabilidade, a análise exploratória dos dados e os questionamentos foram gerados com Spark e a biblioteca Pyspark.
 
