@@ -14,4 +14,6 @@ Segue o print:
 ![alt text](https://github.com/DiegoDangelo/Desafio_Smattbot/blob/main/Relatorio_PI.JPG)
 
 
+Para reprodução, utilize o arquivo: [Relatório.pbix](Relatório.pbix)
+
 
